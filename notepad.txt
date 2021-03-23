@@ -5,3 +5,5 @@ Tai jo įsivaizduok lyg taip sugebėčiau :D
 
 Na okey tarkim jau atrodo suprantu kaip tai veikia
 Galima tureti kodo keitimosi istorija su visais failais ir etc...
+
+Bet ar būtų galima pasakyti, kad dabar galėčiau su Git dirbti?
