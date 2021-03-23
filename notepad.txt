@@ -2,3 +2,6 @@ Taigi šiandien galime pradėti su nauju tekstu.
 Pridėtas pirmas naujas sakinys
 Kaip galėčiau pradėti rašyti dienoraštį? Kad žmonėms būtų skaityti įdomu.
 Tai jo įsivaizduok lyg taip sugebėčiau :D
+
+Na okey tarkim jau atrodo suprantu kaip tai veikia
+Galima tureti kodo keitimosi istorija su visais failais ir etc...
